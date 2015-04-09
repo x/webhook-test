@@ -3,6 +3,7 @@ change
 change
 change
 change
+foo
 change
 change
 change
